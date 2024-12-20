@@ -20,7 +20,7 @@ Epoque royal est une boutique en ligne dédiée à la vente de vêtements élég
 
 ### Instructions
 1. Téléchargez et installez XAMPP
-   ![Capture d'écran de l'installation de XAMPP]([imgReadme\captureecranXAMPP.png](https://github.com/chayma913/myRepo/blob/main/imgReadme/captureecranXAMPP.png?raw=true))
+   ![Capture d'écran de l'installation de XAMPP]([imgReadme\captureecranXAMPP.png])
 
 2. Configurez la base de données
    ![Capture d'écran de phpMyAdmin](imgReadme\basedonnes.jpg)
