@@ -26,7 +26,7 @@ Epoque royal est une boutique en ligne dédiée à la vente de vêtements élég
    ![Capture d'écran de phpMyAdmin](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/basedonnes.jpg)
 3. Téléchargez et installez Wordpress
 ![Capture d'écran de phpMyAdmin](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/Captur%C3%A9cranWordpress.png)
-avec des extensions comme WooCommerce et Elementor ![alt text](imgReadme\Elementor.png)
+avec des extensions comme WooCommerce et Elementor ![alt text](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/elementor.png)
 
 ## Utilisation
 1. Ajouter des produits
