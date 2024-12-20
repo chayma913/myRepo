@@ -42,7 +42,7 @@ avec des extensions comme WooCommerce et Elementor ![alt text](https://raw.githu
 + accès à la boutique et choisir l'article
 ![alt text](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/boutique.jpg)
 + ajouter l'article au panier
-![alt text](imgReadme\panier.jpg)
+![alt text](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/panier.jpg)
 + faire la commande permit de déclencher automatiquement un système de livraison dans Woocommerce
 ![alt text](imgReadme\zoneExpédtion.jpg)
  le paiement a la livraison
