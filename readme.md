@@ -46,7 +46,7 @@ avec des extensions comme WooCommerce et Elementor ![alt text](https://raw.githu
 + faire la commande permit de déclencher automatiquement un système de livraison dans Woocommerce
 ![alt text](imgReadme\zoneExpédtion.jpg)
  le paiement a la livraison
-![Capture d'écran de paiement a la livraison  dans  WordPress](imgReadme\paiementlivraison.jpg)
+![Capture d'écran de paiement a la livraison  dans  WordPress](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/paiementlivraison.jpg)
 
 
 
