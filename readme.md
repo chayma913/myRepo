@@ -40,7 +40,7 @@ avec des extensions comme WooCommerce et Elementor ![alt text](https://raw.githu
  ![Capture d'écran de le compte admin dans  WordPress](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/Lesdeuxcomptes.jpg)
  ## utilisation de la page web
 + accès à la boutique et choisir l'article
-![alt text](imgReadme\boutique.jpg)
+![alt text](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/boutique.jpg)
 + ajouter l'article au panier
 ![alt text](imgReadme\panier.jpg)
 + faire la commande permit de déclencher automatiquement un système de livraison dans Woocommerce
