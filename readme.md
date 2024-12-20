@@ -5,7 +5,7 @@
 
 Epoque royal est une boutique en ligne dédiée à la vente de vêtements élégants et intemporels inspirés par le style rétro pour les femmes.
 
- ![l'accueil](imgReadme\img1.png)
+ ![l'accueil](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/img1.png)
 
 
 ## Logo
