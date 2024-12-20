@@ -37,7 +37,7 @@ avec des extensions comme WooCommerce et Elementor ![alt text](imgReadme\Element
  ![Capture d'écran de le compte admin dans  WordPress](imgReadme\admin.jpg)
  + Nom d'utilisateur : LeContributeur
  + Nom d'utilisateur :LeEditrur
- ![Capture d'écran de le compte admin dans  WordPress](imgReadme\Lesdeuxcomptes.jpg)
+ ![Capture d'écran de le compte admin dans  WordPress](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/Lesdeuxcomptes.jpg)
  ## utilisation de la page web
 + accès à la boutique et choisir l'article
 ![alt text](imgReadme\boutique.jpg)
