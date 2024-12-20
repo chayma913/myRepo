@@ -23,7 +23,7 @@ Epoque royal est une boutique en ligne dédiée à la vente de vêtements élég
    ![Capture d'écran de l'installation de XAMPP](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/captureecranXAMPP.png)
 
 2. Configurez la base de données
-   ![Capture d'écran de phpMyAdmin](imgReadme\basedonnes.jpg)
+   ![Capture d'écran de phpMyAdmin](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/basedonnes.jpg)
 3. Téléchargez et installez Wordpress
 ![Capture d'écran de phpMyAdmin](imgReadme\capturécranWordpress.png)
 avec des extensions comme WooCommerce et Elementor ![alt text](imgReadme\Elementor.png)
