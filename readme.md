@@ -30,7 +30,7 @@ avec des extensions comme WooCommerce et Elementor ![alt text](https://raw.githu
 
 ## Utilisation
 1. Ajouter des produits
-   ![Capture d'écran de l'ajout de produits dans WordPress](imgReadme\ajoutproduit.jpg)
+   ![Capture d'écran de l'ajout de produits dans WordPress](https://raw.githubusercontent.com/chayma913/myRepo/5558efbc59ff8c128ba1768dc080ac378bf6f277/imgReadme/ajoutproduit.jpg)
 
 ## Identifiants Administrateur Principal
 + Nom d'utilisateur : admin
